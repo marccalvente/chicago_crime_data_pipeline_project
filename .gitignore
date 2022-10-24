@@ -132,3 +132,6 @@ dmypy.json
 .env
 Chicago Data Portal.url
 /info_resources
+/data/chicago_crime_data.csv
+/data/Crimes_-_2001_to_Present.csv
+/data/police_stations.csv
